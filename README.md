@@ -12,10 +12,10 @@ analysis, and modifications.
 
 ### Dataset 1
 I practiced:
-- 1. Remove Duplicates
-- 2. Standardize the Data
-- 3. nULL values or blank values
-- 4. Remove any (unnessary) coloums
+ 1. Remove Duplicates
+ 2. Standardize the Data
+ 3. NULL values or blank values
+ 4. Remove any (unnessary) coloums
 
 - Excel: Data cleaning, exploration, analysis
 - SQL: Exploration and analysis
