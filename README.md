@@ -1,4 +1,4 @@
-# Data Analytics Learning Journey
+# Data Analytics Learning Practice
 
 A hands-on learning repository documenting my progression through
 data analytics using Excel, SQL, Python, and Power BI.
